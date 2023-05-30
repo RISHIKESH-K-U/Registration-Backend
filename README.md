@@ -2,6 +2,13 @@
 
 This repository contains the backend code for a Sign-up/Log-in project.
 
+## Tech Stack
+
+1. React
+2. MySQL
+3. Axios
+4. NodeJS
+
 ## Prerequisites
 
 - Node.js installed
@@ -18,13 +25,15 @@ This repository contains the backend code for a Sign-up/Log-in project.
 
 ## Usage
 
-1.Start the server: node app.js
-2.The server will start running at http://localhost:3001.
+1. Start the server: node app.js
+2. The server will start running at http://localhost:3001.
 
 ## API Endpoints
 
-POST /register: Register a new user.
-POST /login: Authenticate a user.
+1. POST /register: Register a new user.
+2. POST /login: Authenticate a user.
+
+
 
 
 
